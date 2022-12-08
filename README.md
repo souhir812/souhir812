@@ -1,6 +1,5 @@
 - 👋 Hi, I’m souhir
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning Full-Stack Development
 - 📫 How to reach me "souhir.benboubakar@gmail.com"
 
 <!---
